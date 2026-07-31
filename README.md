@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF0F0F&width=435&lines=Web+and+Discord+Bot+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF0F0F&width=435&lines=Software+and+Network+Engineer)](https://git.io/typing-svg)
 
 ---
 
