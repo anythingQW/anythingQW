@@ -22,21 +22,23 @@
 
   <br><br>
 
-  <img
-    src="https://komarev.com/ghpvc/?username=anythingQW&style=flat-square&color=ef0f0f&label=VISITORS"
-    alt="Profile Views"
-  />
-
-  &nbsp;
-
-  <img
-    src="https://img.shields.io/github/followers/anythingQW?style=flat-square&color=ef0f0f&label=FOLLOWERS"
-    alt="Followers"
-  />
+  <p>
+    <img
+      src="https://komarev.com/ghpvc/?username=anythingQW&style=flat-square&color=ef0f0f&label=VISITORS"
+      alt="Profile Views"
+    />
+    &nbsp;
+    <img
+      src="https://img.shields.io/github/followers/anythingQW?style=flat-square&color=ef0f0f&label=FOLLOWERS"
+      alt="Followers"
+    />
+  </p>
 
 </div>
 
 <br>
+
+---
 
 ### `$ whoami`
 
