@@ -7,11 +7,6 @@
 
   <br>
 
-  <img
-    src="https://count.getloli.com/get/@booru-qualityhentais?theme=asoul"
-    alt="Profile Views"
-  />
-
   <br><br>
 
   <h2>Hey, I'm anything 👋</h2>
@@ -21,7 +16,10 @@
       Software & Network Engineer · Full-Stack Developer
     </samp>
   </p>
-
+  <img
+    src="https://count.getloli.com/get/@booru-qualityhentais?theme=asoul"
+    alt="Profile Views"
+  />
   <br>
 
   <p>
