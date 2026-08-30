@@ -5,6 +5,15 @@
     width="70px"
   />
 
+  <br>
+
+  <img
+    src="https://count.getloli.com/get/@booru-qualityhentais?theme=asoul"
+    alt="Profile Views"
+  />
+
+  <br><br>
+
   <h2>Hey, I'm anything 👋</h2>
 
   <p>
@@ -56,9 +65,6 @@ const developer = {
 };
 console.log("Welcome to my profile.");
 ```
- $ count.getloli.com
-
-[https://count.getloli.com/get/@booru-qualityhentais?theme=asoul](https://count.getloli.com/get/@booru-qualityhentais?theme=asoul) 
 ---
 
 ### `$ tech-stack`
