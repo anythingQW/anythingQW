@@ -17,7 +17,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=anythingQW&style=flat-square&color=ef0f0f&label=VISITORS" alt="Profile Views" />
     &nbsp;
-    <img src="https://img.shields.main/github/followers/anythingQW?style=flat-square&color=ef0f0f&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/anythingQW?style=flat-square&color=ef0f0f&label=FOLLOWERS" alt="Followers" />
   </p>
 
 </div>
@@ -31,7 +31,11 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats-teal-mu.vercel.app?user=anythingQW&theme=tokyonight-duo&border_radius=10&short_numbers=true&hide_border=true)](https://github.com/anythingQW)
+<div align="center">
+  <a href="https://github.com/anythingQW">
+    <img src="https://github-readme-streak-stats-teal-mu.vercel.app?user=anythingQW&theme=tokyonight-duo&border_radius=10&short_numbers=true&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
