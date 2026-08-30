@@ -41,3 +41,50 @@
 ---
 
 ### `$ whoami`
+
+
+```
+
+$ about-me
+const developer = {
+username: "anythingQW",
+age: 18,
+location: "Azerbaijan",
+
+
+role: [
+    "Full-Stack Developer",
+    "Network Engineer"
+],
+
+currentlyBuilding: "yawn-framework",
+community: "YazılımHub",
+
+interests: [
+    "Backend Systems",
+    "Web Development",
+    "Networking",
+    "Open Source"
+]
+
+};
+console.log("Welcome to my profile.");
+```
+
+$ count.getloli.com
+[https://count.getloli.com/get/@booru-qualityhentais?theme=asoul](https://count.getloli.com/get/@booru-qualityhentais?theme=asoul)
+
+$ stack
+
+$ currently
+
+* Building scalable backend systems
+* Developing modern web applications
+* Working on yawn-framework
+* Growing YazılımHub
+
+$ github
+
+$ connect
+
+contactyazilimhub@gmail.com
