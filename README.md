@@ -15,13 +15,6 @@
 
   <br>
 
-  <img
-    src="https://count.getloli.com/get/@booru-qualityhentais?theme=asoul"
-    alt="Profile Views"
-  />
-
-  <br><br>
-
   <p>
     <img
       src="https://komarev.com/ghpvc/?username=anythingQW&style=flat-square&color=ef0f0f&label=VISITORS"
@@ -42,49 +35,67 @@
 
 ### `$ whoami`
 
-
-```
-
+```javascript
 $ about-me
 const developer = {
-username: "anythingQW",
-age: 18,
-location: "Azerbaijan",
-
-
-role: [
-    "Full-Stack Developer",
-    "Network Engineer"
-],
-
-currentlyBuilding: "yawn-framework",
-community: "YazılımHub",
-
-interests: [
-    "Backend Systems",
-    "Web Development",
-    "Networking",
-    "Open Source"
-]
-
+    username: "anythingQW",
+    age: 18,
+    location: "Azerbaijan",
+    role: [
+        "Full-Stack Developer",
+        "Network Engineer"
+    ],
+    currentlyBuilding: "yawn-framework",
+    community: "YazılımHub",
+    interests: [
+        "Backend Systems",
+        "Web Development",
+        "Networking",
+        "Open Source"
+    ]
 };
 console.log("Welcome to my profile.");
-```
 
-$ count.getloli.com
-[https://count.getloli.com/get/@booru-qualityhentais?theme=asoul](https://count.getloli.com/get/@booru-qualityhentais?theme=asoul)
+---
 
-$ stack
+### `$ tech-stack`
 
-$ currently
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,py,go,docker,git,linux,nginx,postgres,mongodb&theme=dark" alt="Tech Stack" />
+</p>
 
-* Building scalable backend systems
-* Developing modern web applications
-* Working on yawn-framework
-* Growing YazılımHub
+---
 
-$ github
+### `$ github-stats`
 
-$ connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anythingQW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anythingQW&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="48%" />
+</p>
 
-contactyazilimhub@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anythingQW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+---
+
+### `$ currently`
+
+* 🚀 Building scalable backend systems and modern web applications
+* 🛠️ Actively developing **yawn-framework**
+* 🌐 Growing and managing the **YazılımHub** community
+* 📚 Exploring advanced network engineering concepts and open-source ecosystems
+
+---
+
+### `$ connect`
+
+<p align="center">
+  <a href="mailto:contactyazilimhub@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anythingQW">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
