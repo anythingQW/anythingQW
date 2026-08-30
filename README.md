@@ -41,8 +41,8 @@
 ### `$ about-me`
 
 <p align="left">
-  Hey, I'm Muhammet. Based out of <b>Baku, Azerbaijan 🇦🇿</b>, I build high-scale <b>Software & Networks</b>. Most of my time goes into expanding <b>YazılımHub</b>, an open-source ecosystem created to empower developers with modern web applications and resilient backend tools.<br><br>
-  I grew up inside terminal shells and still spend my days optimizing distributed backend architectures. When I'm not fine-tuning network performance or experimenting with custom systems and modern tech stacks, I'm actively architecting and shipping new digital experiences.
+  Hey, I'm Muhammet. Based out of <b>Baku, Azerbaijan 🇦🇿</b>, I build high-scale <a href="#"><img src="https://img.shields.io/badge/Software_%26_Networks-2b213a?style=flat-square&color=282136&labelColor=1e1829" alt="Software & Networks" /></a>. Most of my time goes into expanding <b>YazılımHub</b>, an open-source ecosystem created to empower developers with modern web applications and resilient backend tools.<br><br>
+  I grew up inside terminal shells and still spend my days optimizing distributed backend architectures. When I'm not fine-tuning network performance or experimenting with custom Discord bot systems and modern tech stacks, I'm actively architecting and shipping new digital experiences.
 </p>
 
 ---
