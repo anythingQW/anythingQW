@@ -56,6 +56,9 @@ const developer = {
 };
 console.log("Welcome to my profile.");
 ```
+ $ count.getloli.com
+
+[https://count.getloli.com/get/@booru-qualityhentais?theme=asoul](https://count.getloli.com/get/@booru-qualityhentais?theme=asoul) 
 ---
 
 ### `$ tech-stack`
