@@ -55,7 +55,7 @@ const developer = {
     ]
 };
 console.log("Welcome to my profile.");
-
+```
 ---
 
 ### `$ tech-stack`
