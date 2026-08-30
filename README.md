@@ -5,8 +5,6 @@
     width="70px"
   />
 
-  <br>
-
   <h2>Hey, I'm anything 👋</h2>
 
   <p>
