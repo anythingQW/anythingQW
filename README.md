@@ -5,18 +5,20 @@
     width="70px"
   />
 
-  <h2>Hey, I'm anything 👋</h2>
+  <h2>Hey, I'm Muhammet 👋</h2>
 
   <p>
     <samp>
       Software & Network Engineer · Full-Stack Developer
     </samp>
   </p>
+
   <img
     src="https://count.getloli.com/get/@booru-qualityhentais?theme=asoul"
     alt="Profile Views"
   />
-  <br>
+
+  <br><br>
 
   <p>
     <img
@@ -36,35 +38,11 @@
 
 ---
 
-### `$ whoami`
+### `$ about-me`
 
-```javascript
-$ about-me
-const developer = {
-    username: "anythingQW",
-    age: 18,
-    location: "Azerbaijan",
-    role: [
-        "Full-Stack Developer",
-        "Network Engineer"
-    ],
-    currentlyBuilding: "yawn-framework",
-    community: "YazılımHub",
-    interests: [
-        "Backend Systems",
-        "Web Development",
-        "Networking",
-        "Open Source"
-    ]
-};
-console.log("Welcome to my profile.");
-```
----
-
-### `$ tech-stack`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,py,go,docker,git,linux,nginx,postgres,mongodb&theme=dark" alt="Tech Stack" />
+<p align="left">
+  Hey, I'm Muhammet. Based out of <b>Baku, Azerbaijan 🇦🇿</b>, I build high-scale <b>Software & Networks</b>. Most of my time goes into expanding <b>YazılımHub</b>, an open-source ecosystem created to empower developers with modern web applications and resilient backend tools.<br><br>
+  I grew up inside terminal shells and still spend my days optimizing distributed backend architectures. When I'm not fine-tuning network performance or experimenting with custom systems and modern tech stacks, I'm actively architecting and shipping new digital experiences.
 </p>
 
 ---
@@ -79,15 +57,6 @@ console.log("Welcome to my profile.");
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anythingQW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
-
----
-
-### `$ currently`
-
-* 🚀 Building scalable backend systems and modern web applications
-* 🛠️ Actively developing **yawn-framework**
-* 🌐 Growing and managing the **YazılımHub** community
-* 📚 Exploring advanced network engineering concepts and open-source ecosystems
 
 ---
 
